@@ -4,4 +4,19 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "fastapi>=0.115.8",
+    "sqlalchemy>=2.0.38",
+    "uvicorn>=0.34.0",
+    "slowapi>=0.1.9",
+    "redis>=5.0.1", # Optional: for distributed rate limiting
+    "ruff>=0.9.5",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.4",
+]
+lint = [
+    "ruff>=0.9.5",
+]
