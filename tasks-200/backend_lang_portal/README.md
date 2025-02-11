@@ -170,6 +170,16 @@ Once the application is running, you can access:
 - Interactive API documentation (Swagger UI): `http://localhost:8000/docs`
 - Alternative API documentation (ReDoc): `http://localhost:8000/redoc`
 
+
+## Run with Docker 
+
+```
+docker build -t backend-lang-portal .
+docker run -d -p 8000:8000 backend-lang-portal  # run it in detached
+
+```
+
+
 ## Contributing
 
 1. Fork the repository
