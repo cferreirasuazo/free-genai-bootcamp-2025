@@ -1,17 +1,21 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Request
 from sqlalchemy.orm import Session
 from typing import Optional, List
 from database import get_db
 from models import StudySession, Group, StudyActivity
 from schemas import StudySessionBase, StudySession as StudySessionSchema, WordReviewCreate, WordReviewResponse
 from repositories import StudySessionRepository, WordReviewItemRepository
+from utils.rate_limiter import RateLimiter
 
 router = APIRouter()
+rate_limiter = RateLimiter(requests_per_minute=60)
 
 @router.post("/study_sessions", response_model=StudySessionSchema)
 async def create_study_session(
+    request: Request,
     study_session: StudySessionBase,
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    _: bool = Depends(rate_limiter)
 ):
     # Validate group exists
     group = db.query(Group).filter(Group.id == study_session.group_id).first()
@@ -38,9 +42,11 @@ async def create_study_session(
 
 @router.post("/study_sessions/{session_id}/review", response_model=WordReviewResponse)
 async def create_review(
+    request: Request,
     session_id: int,
     review: WordReviewCreate,
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    _: bool = Depends(rate_limiter)
 ):
     session_repo = StudySessionRepository(db)
     session = session_repo.get_by_id(session_id)
