@@ -70,3 +70,17 @@ class WordReviewResponse(BaseModel):
 
     class Config:
         from_attributes = True 
+
+class WordPart(BaseModel):
+    kanji: str
+    romaji: List[str]
+
+class WordImport(BaseModel):
+    kanji: str
+    romaji: str
+    english: str
+    parts: List[WordPart]
+
+class WordsImportRequest(BaseModel):
+    group_name: str
+    words: List[WordImport]

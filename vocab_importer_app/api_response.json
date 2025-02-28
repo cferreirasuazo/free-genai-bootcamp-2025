@@ -1,0 +1,203 @@
+{
+  "animals": [
+    {
+      "kanji": "猫",
+      "romaji": "neko",
+      "english": "cat",
+      "parts": [{ "kanji": "猫", "romaji": ["ne", "ko"] }]
+    },
+    {
+      "kanji": "犬",
+      "romaji": "inu",
+      "english": "dog",
+      "parts": [{ "kanji": "犬", "romaji": ["i", "nu"] }]
+    },
+    {
+      "kanji": "象",
+      "romaji": "zou",
+      "english": "elephant",
+      "parts": [{ "kanji": "象", "romaji": ["zou"] }]
+    },
+    {
+      "kanji": "ライオン",
+      "romaji": "raion",
+      "english": "lion",
+      "parts": [
+        { "kanji": "ライ", "romaji": ["rai"] },
+        { "kanji": "オン", "romaji": ["on"] }
+      ]
+    },
+    {
+      "kanji": "虎",
+      "romaji": "tora",
+      "english": "tiger",
+      "parts": [{ "kanji": "虎", "romaji": ["to", "ra"] }]
+    },
+    {
+      "kanji": "クマ",
+      "romaji": "kuma",
+      "english": "bear",
+      "parts": [{ "kanji": "クマ", "romaji": ["ku", "ma"] }]
+    },
+    {
+      "kanji": "ウサギ",
+      "romaji": "usagi",
+      "english": "rabbit",
+      "parts": [
+        { "kanji": "ウ", "romaji": ["u"] },
+        { "kanji": "サ", "romaji": ["sa"] },
+        { "kanji": "ギ", "romaji": ["gi"] }
+      ]
+    },
+    {
+      "kanji": "鳥",
+      "romaji": "tori",
+      "english": "bird",
+      "parts": [{ "kanji": "鳥", "romaji": ["to", "ri"] }]
+    },
+    {
+      "kanji": "魚",
+      "romaji": "sakana",
+      "english": "fish",
+      "parts": [{ "kanji": "魚", "romaji": ["sa", "ka", "na"] }]
+    },
+    {
+      "kanji": "馬",
+      "romaji": "uma",
+      "english": "horse",
+      "parts": [{ "kanji": "馬", "romaji": ["u", "ma"] }]
+    },
+    {
+      "kanji": "牛",
+      "romaji": "ushi",
+      "english": "cow",
+      "parts": [{ "kanji": "牛", "romaji": ["u", "shi"] }]
+    },
+    {
+      "kanji": "羊",
+      "romaji": "hitsuji",
+      "english": "sheep",
+      "parts": [{ "kanji": "羊", "romaji": ["hi", "tsu", "ji"] }]
+    },
+    {
+      "kanji": "豚",
+      "romaji": "buta",
+      "english": "pig",
+      "parts": [{ "kanji": "豚", "romaji": ["bu", "ta"] }]
+    },
+    {
+      "kanji": "鶏",
+      "romaji": "niwatori",
+      "english": "chicken",
+      "parts": [{ "kanji": "鶏", "romaji": ["ni", "wa", "to", "ri"] }]
+    },
+    {
+      "kanji": "アヒル",
+      "romaji": "ahiru",
+      "english": "duck",
+      "parts": [
+        { "kanji": "ア", "romaji": ["a"] },
+        { "kanji": "ヒ", "romaji": ["hi"] },
+        { "kanji": "ル", "romaji": ["ru"] }
+      ]
+    },
+    {
+      "kanji": "キツネ",
+      "romaji": "kitsune",
+      "english": "fox",
+      "parts": [
+        { "kanji": "キ", "romaji": ["ki"] },
+        { "kanji": "ツ", "romaji": ["tsu"] },
+        { "kanji": "ネ", "romaji": ["ne"] }
+      ]
+    },
+    {
+      "kanji": "オオカミ",
+      "romaji": "ookami",
+      "english": "wolf",
+      "parts": [
+        { "kanji": "オ", "romaji": ["o"] },
+        { "kanji": "オ", "romaji": ["o"] },
+        { "kanji": "カミ", "romaji": ["ka", "mi"] }
+      ]
+    },
+    {
+      "kanji": "猿",
+      "romaji": "saru",
+      "english": "monkey",
+      "parts": [{ "kanji": "猿", "romaji": ["sa", "ru"] }]
+    },
+    {
+      "kanji": "カンガルー",
+      "romaji": "kangaruu",
+      "english": "kangaroo",
+      "parts": [
+        { "kanji": "カン", "romaji": ["kan"] },
+        { "kanji": "ガ", "romaji": ["ga"] },
+        { "kanji": "ルー", "romaji": ["ruu"] }
+      ]
+    },
+    {
+      "kanji": "コアラ",
+      "romaji": "koara",
+      "english": "koala",
+      "parts": [
+        { "kanji": "コ", "romaji": ["ko"] },
+        { "kanji": "ア", "romaji": ["a"] },
+        { "kanji": "ラ", "romaji": ["ra"] }
+      ]
+    },
+    {
+      "kanji": "パンダ",
+      "romaji": "panda",
+      "english": "panda",
+      "parts": [
+        { "kanji": "パ", "romaji": ["pa"] },
+        { "kanji": "ン", "romaji": ["n"] },
+        { "kanji": "ダ", "romaji": ["da"] }
+      ]
+    },
+    {
+      "kanji": "キリン",
+      "romaji": "kirin",
+      "english": "giraffe",
+      "parts": [
+        { "kanji": "キ", "romaji": ["ki"] },
+        { "kanji": "リン", "romaji": ["rin"] }
+      ]
+    },
+    {
+      "kanji": "シマウマ",
+      "romaji": "shimauma",
+      "english": "zebra",
+      "parts": [
+        { "kanji": "シマ", "romaji": ["shima"] },
+        { "kanji": "ウマ", "romaji": ["uma"] }
+      ]
+    },
+    {
+      "kanji": "カバ",
+      "romaji": "kaba",
+      "english": "hippopotamus",
+      "parts": [
+        { "kanji": "カ", "romaji": ["ka"] },
+        { "kanji": "バ", "romaji": ["ba"] }
+      ]
+    },
+    {
+      "kanji": "ワニ",
+      "romaji": "wani",
+      "english": "crocodile",
+      "parts": [
+        { "kanji": "ワ", "romaji": ["wa"] },
+        { "kanji": "ニ", "romaji": ["ni"] }
+      ]
+    },
+    {
+      "kanji": "蛇",
+      "romaji": "hebi",
+      "english": "snake",
+      "parts": [{ "kanji": "蛇", "romaji": ["he", "bi"] }]
+    }
+  ]
+}

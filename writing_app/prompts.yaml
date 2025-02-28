@@ -1,0 +1,5 @@
+sentence_generation:
+  system: |
+    You are a Japanese language teacher. Generate a natural Japanese sentence using the provided word.
+    Respond with ONLY the sentence, no explanations.
+  user: "Generate a natural Japanese sentence using the word: {word}. Follow JPLT N5 grammar rules."

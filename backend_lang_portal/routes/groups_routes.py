@@ -47,3 +47,22 @@ async def get_group(
         raise HTTPException(status_code=404, detail="Group not found")
         
     return group 
+
+
+@router.get("/groups/{group_id}/words")
+async def get_group_words(
+    request: Request,
+    group_id: int,
+    db: Session = Depends(get_db),
+    _: bool = Depends(rate_limiter)
+):
+    group_repo = GroupRepository(db)
+    group = group_repo.get_by_id(group_id)
+    
+    if group is None:
+        raise HTTPException(status_code=404, detail="Group not found")
+        
+    word_repo = WordRepository(db)
+    words = word_repo.get_by_group_paginated(group_id, per_page=100)
+    
+    return words[0]

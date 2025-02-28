@@ -1,0 +1,14 @@
+[project]
+name = "wrinting-practice-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "manga-ocr>=0.1.14",
+    "openai>=1.64.0",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+    "streamlit>=1.42.2",
+    "streamlit-drawable-canvas>=0.9.3",
+]

@@ -1,0 +1,15 @@
+[project]
+name = "listening-learning-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.36.24",
+    "chromadb>=0.6.3",
+    "ollama>=0.4.7",
+    "openai>=1.64.0",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.42.1",
+    "youtube-transcript-api>=0.6.3",
+]

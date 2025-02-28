@@ -1,0 +1,454 @@
+{
+  "JLPT N5 Kanji": [
+    {
+      "kanji": "一",
+      "romaji": "ichi",
+      "english": "one",
+      "parts": [{ "kanji": "一", "romaji": ["ichi"] }]
+    },
+    {
+      "kanji": "二",
+      "romaji": "ni",
+      "english": "two",
+      "parts": [{ "kanji": "二", "romaji": ["ni"] }]
+    },
+    {
+      "kanji": "三",
+      "romaji": "san",
+      "english": "three",
+      "parts": [{ "kanji": "三", "romaji": ["san"] }]
+    },
+    {
+      "kanji": "四",
+      "romaji": "shi / yon",
+      "english": "four",
+      "parts": [{ "kanji": "四", "romaji": ["shi", "yon"] }]
+    },
+    {
+      "kanji": "五",
+      "romaji": "go",
+      "english": "five",
+      "parts": [{ "kanji": "五", "romaji": ["go"] }]
+    },
+    {
+      "kanji": "六",
+      "romaji": "roku",
+      "english": "six",
+      "parts": [{ "kanji": "六", "romaji": ["roku"] }]
+    },
+    {
+      "kanji": "七",
+      "romaji": "shichi / nana",
+      "english": "seven",
+      "parts": [{ "kanji": "七", "romaji": ["shichi", "nana"] }]
+    },
+    {
+      "kanji": "八",
+      "romaji": "hachi",
+      "english": "eight",
+      "parts": [{ "kanji": "八", "romaji": ["hachi"] }]
+    },
+    {
+      "kanji": "九",
+      "romaji": "kyuu / ku",
+      "english": "nine",
+      "parts": [{ "kanji": "九", "romaji": ["kyuu", "ku"] }]
+    },
+    {
+      "kanji": "十",
+      "romaji": "juu",
+      "english": "ten",
+      "parts": [{ "kanji": "十", "romaji": ["juu"] }]
+    },
+    {
+      "kanji": "百",
+      "romaji": "hyaku",
+      "english": "hundred",
+      "parts": [{ "kanji": "百", "romaji": ["hyaku"] }]
+    },
+    {
+      "kanji": "千",
+      "romaji": "sen",
+      "english": "thousand",
+      "parts": [{ "kanji": "千", "romaji": ["sen"] }]
+    },
+    {
+      "kanji": "万",
+      "romaji": "man",
+      "english": "ten thousand",
+      "parts": [{ "kanji": "万", "romaji": ["man"] }]
+    },
+    {
+      "kanji": "円",
+      "romaji": "en",
+      "english": "yen, circle",
+      "parts": [{ "kanji": "円", "romaji": ["en"] }]
+    },
+    {
+      "kanji": "日",
+      "romaji": "nichi / hi",
+      "english": "day, sun",
+      "parts": [{ "kanji": "日", "romaji": ["nichi", "hi"] }]
+    },
+    {
+      "kanji": "月",
+      "romaji": "getsu / tsuki",
+      "english": "month, moon",
+      "parts": [{ "kanji": "月", "romaji": ["getsu", "tsuki"] }]
+    },
+    {
+      "kanji": "火",
+      "romaji": "ka / hi",
+      "english": "fire",
+      "parts": [{ "kanji": "火", "romaji": ["ka", "hi"] }]
+    },
+    {
+      "kanji": "水",
+      "romaji": "sui / mizu",
+      "english": "water",
+      "parts": [{ "kanji": "水", "romaji": ["sui", "mizu"] }]
+    },
+    {
+      "kanji": "木",
+      "romaji": "moku / ki",
+      "english": "tree, wood",
+      "parts": [{ "kanji": "木", "romaji": ["moku", "ki"] }]
+    },
+    {
+      "kanji": "金",
+      "romaji": "kin / kane",
+      "english": "gold, money",
+      "parts": [{ "kanji": "金", "romaji": ["kin", "kane"] }]
+    },
+    {
+      "kanji": "土",
+      "romaji": "do / tsuchi",
+      "english": "earth, ground",
+      "parts": [{ "kanji": "土", "romaji": ["do", "tsuchi"] }]
+    },
+    {
+      "kanji": "本",
+      "romaji": "hon",
+      "english": "book, origin",
+      "parts": [{ "kanji": "本", "romaji": ["hon"] }]
+    },
+    {
+      "kanji": "人",
+      "romaji": "jin / hito",
+      "english": "person",
+      "parts": [{ "kanji": "人", "romaji": ["jin", "hito"] }]
+    },
+    {
+      "kanji": "今",
+      "romaji": "ima",
+      "english": "now",
+      "parts": [{ "kanji": "今", "romaji": ["ima"] }]
+    },
+    {
+      "kanji": "時",
+      "romaji": "ji / toki",
+      "english": "time",
+      "parts": [{ "kanji": "時", "romaji": ["ji", "toki"] }]
+    },
+    {
+      "kanji": "会",
+      "romaji": "kai / au",
+      "english": "meet",
+      "parts": [{ "kanji": "会", "romaji": ["kai", "au"] }]
+    },
+    {
+      "kanji": "社",
+      "romaji": "sha",
+      "english": "company, shrine",
+      "parts": [{ "kanji": "社", "romaji": ["sha"] }]
+    },
+    {
+      "kanji": "何",
+      "romaji": "nani",
+      "english": "what",
+      "parts": [{ "kanji": "何", "romaji": ["nani"] }]
+    },
+    {
+      "kanji": "国",
+      "romaji": "kuni",
+      "english": "country",
+      "parts": [{ "kanji": "国", "romaji": ["kuni"] }]
+    },
+    {
+      "kanji": "話",
+      "romaji": "hana",
+      "english": "talk",
+      "parts": [{ "kanji": "話", "romaji": ["hana"] }]
+    },
+    {
+      "kanji": "行",
+      "romaji": "iku",
+      "english": "go",
+      "parts": [{ "kanji": "行", "romaji": ["iku"] }]
+    },
+    {
+      "kanji": "来",
+      "romaji": "kuru",
+      "english": "come",
+      "parts": [{ "kanji": "来", "romaji": ["kuru"] }]
+    },
+    {
+      "kanji": "見",
+      "romaji": "miru",
+      "english": "see",
+      "parts": [{ "kanji": "見", "romaji": ["miru"] }]
+    },
+    {
+      "kanji": "聞",
+      "romaji": "kiku",
+      "english": "hear",
+      "parts": [{ "kanji": "聞", "romaji": ["kiku"] }]
+    },
+    {
+      "kanji": "食",
+      "romaji": "taberu",
+      "english": "eat",
+      "parts": [{ "kanji": "食", "romaji": ["taberu"] }]
+    },
+    {
+      "kanji": "飲",
+      "romaji": "nomu",
+      "english": "drink",
+      "parts": [{ "kanji": "飲", "romaji": ["nomu"] }]
+    },
+    {
+      "kanji": "買",
+      "romaji": "kau",
+      "english": "buy",
+      "parts": [{ "kanji": "買", "romaji": ["kau"] }]
+    },
+    {
+      "kanji": "売",
+      "romaji": "uru",
+      "english": "sell",
+      "parts": [{ "kanji": "売", "romaji": ["uru"] }]
+    },
+    {
+      "kanji": "休",
+      "romaji": "yasumu",
+      "english": "rest",
+      "parts": [{ "kanji": "休", "romaji": ["yasumu"] }]
+    },
+    {
+      "kanji": "書",
+      "romaji": "kaku",
+      "english": "write",
+      "parts": [{ "kanji": "書", "romaji": ["kaku"] }]
+    },
+    {
+      "kanji": "読",
+      "romaji": "yomu",
+      "english": "read",
+      "parts": [{ "kanji": "読", "romaji": ["yomu"] }]
+    },
+    {
+      "kanji": "立",
+      "romaji": "tatsu",
+      "english": "stand",
+      "parts": [{ "kanji": "立", "romaji": ["tatsu"] }]
+    },
+    {
+      "kanji": "入",
+      "romaji": "hairu",
+      "english": "enter",
+      "parts": [{ "kanji": "入", "romaji": ["hairu"] }]
+    },
+    {
+      "kanji": "出",
+      "romaji": "deru",
+      "english": "exit",
+      "parts": [{ "kanji": "出", "romaji": ["deru"] }]
+    },
+    {
+      "kanji": "右",
+      "romaji": "migi",
+      "english": "right",
+      "parts": [{ "kanji": "右", "romaji": ["migi"] }]
+    },
+    {
+      "kanji": "左",
+      "romaji": "hidari",
+      "english": "left",
+      "parts": [{ "kanji": "左", "romaji": ["hidari"] }]
+    },
+    {
+      "kanji": "上",
+      "romaji": "ue",
+      "english": "up",
+      "parts": [{ "kanji": "上", "romaji": ["ue"] }]
+    },
+    {
+      "kanji": "下",
+      "romaji": "shita",
+      "english": "down",
+      "parts": [{ "kanji": "下", "romaji": ["shita"] }]
+    },
+    {
+      "kanji": "前",
+      "romaji": "mae",
+      "english": "front",
+      "parts": [{ "kanji": "前", "romaji": ["mae"] }]
+    },
+    {
+      "kanji": "後",
+      "romaji": "ato / ushiro",
+      "english": "after, behind",
+      "parts": [{ "kanji": "後", "romaji": ["ato", "ushiro"] }]
+    },
+    {
+      "kanji": "外",
+      "romaji": "soto",
+      "english": "outside",
+      "parts": [{ "kanji": "外", "romaji": ["soto"] }]
+    },
+    {
+      "kanji": "中",
+      "romaji": "naka",
+      "english": "inside",
+      "parts": [{ "kanji": "中", "romaji": ["naka"] }]
+    },
+    {
+      "kanji": "長",
+      "romaji": "nagai",
+      "english": "long",
+      "parts": [{ "kanji": "長", "romaji": ["nagai"] }]
+    },
+    {
+      "kanji": "高",
+      "romaji": "takai",
+      "english": "high, expensive",
+      "parts": [{ "kanji": "高", "romaji": ["takai"] }]
+    },
+    {
+      "kanji": "小",
+      "romaji": "chiisai",
+      "english": "small",
+      "parts": [{ "kanji": "小", "romaji": ["chiisai"] }]
+    },
+    {
+      "kanji": "大",
+      "romaji": "ookii",
+      "english": "big",
+      "parts": [{ "kanji": "大", "romaji": ["ookii"] }]
+    },
+    {
+      "kanji": "白",
+      "romaji": "shiro",
+      "english": "white",
+      "parts": [{ "kanji": "白", "romaji": ["shiro"] }]
+    },
+    {
+      "kanji": "黒",
+      "romaji": "kuro",
+      "english": "black",
+      "parts": [{ "kanji": "黒", "romaji": ["kuro"] }]
+    },
+    {
+      "kanji": "赤",
+      "romaji": "aka",
+      "english": "red",
+      "parts": [{ "kanji": "赤", "romaji": ["aka"] }]
+    },
+    {
+      "kanji": "青",
+      "romaji": "ao",
+      "english": "blue",
+      "parts": [{ "kanji": "青", "romaji": ["ao"] }]
+    },
+    {
+      "kanji": "新",
+      "romaji": "atarashii",
+      "english": "new",
+      "parts": [{ "kanji": "新", "romaji": ["atarashii"] }]
+    },
+    {
+      "kanji": "古",
+      "romaji": "furui",
+      "english": "old",
+      "parts": [{ "kanji": "古", "romaji": ["furui"] }]
+    },
+    {
+      "kanji": "安",
+      "romaji": "yasui",
+      "english": "cheap, safe",
+      "parts": [{ "kanji": "安", "romaji": ["yasui"] }]
+    },
+    {
+      "kanji": "多",
+      "romaji": "ooi",
+      "english": "many",
+      "parts": [{ "kanji": "多", "romaji": ["ooi"] }]
+    },
+    {
+      "kanji": "少",
+      "romaji": "sukunai",
+      "english": "few",
+      "parts": [{ "kanji": "少", "romaji": ["sukunai"] }]
+    },
+    {
+      "kanji": "元",
+      "romaji": "moto",
+      "english": "origin, base",
+      "parts": [{ "kanji": "元", "romaji": ["moto"] }]
+    },
+    {
+      "kanji": "天",
+      "romaji": "ten",
+      "english": "heaven",
+      "parts": [{ "kanji": "天", "romaji": ["ten"] }]
+    },
+    {
+      "kanji": "気",
+      "romaji": "ki",
+      "english": "spirit, air",
+      "parts": [{ "kanji": "気", "romaji": ["ki"] }]
+    },
+    {
+      "kanji": "車",
+      "romaji": "kuruma",
+      "english": "car",
+      "parts": [{ "kanji": "車", "romaji": ["kuruma"] }]
+    },
+    {
+      "kanji": "電",
+      "romaji": "den",
+      "english": "electricity",
+      "parts": [{ "kanji": "電", "romaji": ["den"] }]
+    },
+    {
+      "kanji": "駅",
+      "romaji": "eki",
+      "english": "station",
+      "parts": [{ "kanji": "駅", "romaji": ["eki"] }]
+    },
+    {
+      "kanji": "道",
+      "romaji": "michi",
+      "english": "road, way",
+      "parts": [{ "kanji": "道", "romaji": ["michi"] }]
+    },
+    {
+      "kanji": "語",
+      "romaji": "go",
+      "english": "language",
+      "parts": [{ "kanji": "語", "romaji": ["go"] }]
+    },
+    {
+      "kanji": "学",
+      "romaji": "gaku",
+      "english": "study",
+      "parts": [{ "kanji": "学", "romaji": ["gaku"] }]
+    },
+    {
+      "kanji": "校",
+      "romaji": "kou",
+      "english": "school",
+      "parts": [{ "kanji": "校", "romaji": ["kou"] }]
+    }
+  ]
+}

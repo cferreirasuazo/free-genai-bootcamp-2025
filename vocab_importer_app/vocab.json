@@ -1,0 +1,145 @@
+{
+    "animals": [
+        {
+            "kanji": "猫",
+            "romaji": "neko",
+            "english": "cat",
+            "parts": [
+                {
+                    "kanji": "猫",
+                    "romaji": [
+                        "ne",
+                        "ko"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "犬",
+            "romaji": "inu",
+            "english": "dog",
+            "parts": [
+                {
+                    "kanji": "犬",
+                    "romaji": [
+                        "i",
+                        "nu"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "鳥",
+            "romaji": "tori",
+            "english": "bird",
+            "parts": [
+                {
+                    "kanji": "鳥",
+                    "romaji": [
+                        "to",
+                        "ri"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "熊",
+            "romaji": "kuma",
+            "english": "bear",
+            "parts": [
+                {
+                    "kanji": "熊",
+                    "romaji": [
+                        "ku",
+                        "ma"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "猿",
+            "romaji": "saru",
+            "english": "monkey",
+            "parts": [
+                {
+                    "kanji": "猿",
+                    "romaji": [
+                        "sa",
+                        "ru"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "牛",
+            "romaji": "ushi",
+            "english": "cow",
+            "parts": [
+                {
+                    "kanji": "牛",
+                    "romaji": [
+                        "u",
+                        "shi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "馬",
+            "romaji": "uma",
+            "english": "horse",
+            "parts": [
+                {
+                    "kanji": "馬",
+                    "romaji": [
+                        "u",
+                        "ma"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "兎",
+            "romaji": "usagi",
+            "english": "rabbit",
+            "parts": [
+                {
+                    "kanji": "兎",
+                    "romaji": [
+                        "u",
+                        "sa",
+                        "gi"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "狐",
+            "romaji": "kitsune",
+            "english": "fox",
+            "parts": [
+                {
+                    "kanji": "狐",
+                    "romaji": [
+                        "ki",
+                        "tsu",
+                        "ne"
+                    ]
+                }
+            ]
+        },
+        {
+            "kanji": "象",
+            "romaji": "zou",
+            "english": "elephant",
+            "parts": [
+                {
+                    "kanji": "象",
+                    "romaji": [
+                        "zou"
+                    ]
+                }
+            ]
+        }
+    ]
+}
