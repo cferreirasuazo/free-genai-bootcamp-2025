@@ -1,0 +1,8 @@
+{
+  "game_master": "You arrive at Kyoto Airport, the bustling atmosphere of travelers filling the air. You notice a **lost suitcase** sitting near the baggage claim area. As you approach, you see a **ticket** inside it with some text in Japanese. You wonder if this ticket can guide you to the next step of your journey. The lost-and-found counter is just ahead, but you’re unsure whether to approach them or try to read the text on the ticket first.",
+  "options": [
+    "Look at the ticket.",
+    "Move to the lost-and-found counter.",
+    "Talk to the airport staff."
+  ]
+}
